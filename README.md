@@ -1,5 +1,5 @@
 # MyRepoNext
 Projeto Next Disciplina Gerência de Configuração
 
-## New Feature
+## Main Features
 New feature to be implemented in this project
